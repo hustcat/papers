@@ -26,3 +26,5 @@ Large-Scale Machine Learning on Heterogeneous Distributed Systems](ml-framework/
 * [Implementing Open vSwitch datapath using TC](network/Implementing-Open-vSwitch-datapath-using-TC.pdf) -- 备注: 用TC实现OVS的数据面
 
 * [Iron: Isolating Network-based CPU in Container Environments](network/Isolating_Network-based_CPU_in_container_environment.pdf)
+
+* [Anatomy of a Linux bridge](network/linux_bridging_final.pdf)
