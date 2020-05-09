@@ -2,10 +2,11 @@
 
 ## ML framework
 
-* [TensorFlow:
-Large-Scale Machine Learning on Heterogeneous Distributed Systems](ml-framework/TensorFlow-Large-Scale-Machine-Learningon-Heterogeneous-Distributed-Systems.pdf) -- 备注: Tensorflow的开山之作
+* [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](ml-framework/TensorFlow-Large-Scale-Machine-Learningon-Heterogeneous-Distributed-Systems.pdf) -- 备注: Tensorflow的开山之作
 
 * [Fast Distributed Deep Learning over RDMA](ml-framework/FastDistributed-Deep-Learning-over-RDMA.pdf) -- 备注: 用RDMA来加速机器学习
+
+* [XGBoost: A Scalable Tree Boosting System](ml-framework/XGBoost-A-Scalable-Tree-Boosting-System.pdf)
 
 ## RDMA
 
@@ -18,6 +19,8 @@ Large-Scale Machine Learning on Heterogeneous Distributed Systems](ml-framework/
 ## 资源管理
 
 * [Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms](rm/Resource-Central-SOSP17.pdf) -- 备注: 用机器学习来估化资源管理
+
+* [Borg: the Next Generation](rm/Borg_the_Next_Generation.pdf)
 
 ## Network
 
