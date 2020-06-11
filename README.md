@@ -8,6 +8,8 @@
 
 * [XGBoost: A Scalable Tree Boosting System](ml-framework/XGBoost-A-Scalable-Tree-Boosting-System.pdf)
 
+* [Horovod: fast and easy distributed deep learning in TensorFlow](ml-framework/Horovod_fast_and_easy_distributed_deep_learning_in_TensorFlow.pdf)
+
 ## RDMA
 
 * [Congestion Control for Large-Scale RDMA Deployments](rdma/Congestion-Control-for-Large-Scale-RDMA-Deployments.pdf) -- 备注: 介绍RDMA的拥塞控制机制
@@ -18,7 +20,7 @@
 
 ## 资源管理
 
-* [Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms](rm/Resource-Central-SOSP17.pdf) -- 备注: 用机器学习来估化资源管理
+* [Resource Central: Understanding and Predicting Workloads for Improved Resource Management in Large Cloud Platforms](rm/Resource-Central-SOSP17.pdf) -- 备注: 用机器学习来优化资源管理
 
 * [Borg: the Next Generation](rm/Borg_the_Next_Generation.pdf)
 
